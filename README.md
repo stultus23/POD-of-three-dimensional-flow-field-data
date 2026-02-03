@@ -1,4 +1,3 @@
-@'
 # POD Flow 🌀
 
 POD Flow 是一个面向 2D/3D 流场 `.DAT` 批量快照的 POD（Proper Orthogonal Decomposition）分析工具，提供可视化能量谱、模态云图、时间系数与频谱分析，并支持低阶重构导出。
